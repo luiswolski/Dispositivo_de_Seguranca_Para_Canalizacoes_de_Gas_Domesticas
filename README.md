@@ -1,5 +1,5 @@
 # Dispositivo_de_Seguranca_Para_Canalizacoes_de_Gas_Domesticas
- ##Projeto Arduino 2019
+ # #Projeto Arduino 2019
  
  
 O dispositivo tem como principal objetivo oferecer uma redundância de segurança para as instalações de gás domiciliares, e quando note alguma anomalia na concentração de gases no ambiente interrompa o fluxo de gás da tubulação autonomamente.
